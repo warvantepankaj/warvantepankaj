@@ -18,9 +18,7 @@ I'm a passionate Full-Stack Developer and a dedicated problem-solver currently p
 
 ## ⚡ About Me
 
-* 🎓 I'm currently a final-year Computer Science student at **Tatyasaheb Kore Institute of Engineering and Technology** [cite: 5][cite_start], affiliated with Shivaji University.
-* 💻 I have solved over **300 problems on LeetCode**, honing my skills in DSA and logical thinking.
-* 🏆 I have secured **1st place in three different college-level coding competitions**.
+* 🎓 I'm currently a final-year Computer Science student at **Tatyasaheb Kore Institute of Engineering and Technology** , affiliated with Shivaji University.
 * 🚀 I love bringing ideas to life. I have developed multiple projects from scratch, focusing on database management, authentication, and scalable architecture.
 *🤝 As a key member of a team in the **PRABAL Hackathon**, I have proven experience in collaboration, communication, and teamwork under pressure.
 
