@@ -82,19 +82,19 @@ Here are the technologies I work with:
     </td>
     <td align="center" width="96">
       <a href="#-front-end">
-        <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#-front-end">
-        <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
      <td align="center" width="96">
       <a href="#-front-end">
-        <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
