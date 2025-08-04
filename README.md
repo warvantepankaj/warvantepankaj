@@ -1,8 +1,5 @@
 # Hi there, I'm Pankaj Warvante 👋
 
-<br />
-<br />
-
 I'm a passionate Full-Stack Developer and a dedicated problem-solver currently pursuing a B.Tech in Computer Science Engineering. I thrive on building scalable, user-centric web applications and have a strong foundation in Data Structures and Algorithms.
 
 ## 🛠️ My Tech Stack
