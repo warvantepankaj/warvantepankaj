@@ -1,12 +1,5 @@
 # Hi there, I'm Pankaj Warvante 👋
 
-<a href="[https://linkedin.com/in/pankaj-warvante](https://linkedin.com/in/pankaj-warvante)">
-  <img align="left" alt="Pankaj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="[https://github.com/warvantepankaj](https://github.com/warvantepankaj)">
-  <img align="left" alt="Pankaj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <br />
 <br />
 
@@ -102,13 +95,3 @@ Here are the technologies I work with:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warvantepankaj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out. I'm always open to new opportunities and collaborations.
-
-<p align="left">
-<a href="https://linkedin.com/in/pankaj-warvante" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="pankaj-warvante" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="mailto:warvantepankaj@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="pankaj-warvante" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
