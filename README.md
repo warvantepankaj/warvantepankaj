@@ -1,16 +1,16 @@
 # Hi there, I'm Pankaj Warvante 👋
 
-[cite_start]<a href="[https://linkedin.com/in/pankaj-warvante](https://linkedin.com/in/pankaj-warvante)">[cite: 3]
+<a href="[https://linkedin.com/in/pankaj-warvante](https://linkedin.com/in/pankaj-warvante)">
   <img align="left" alt="Pankaj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-[cite_start]<a href="[https://github.com/warvantepankaj](https://github.com/warvantepankaj)">[cite: 8]
+<a href="[https://github.com/warvantepankaj](https://github.com/warvantepankaj)">
   <img align="left" alt="Pankaj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
 <br />
 
-[cite_start]I'm a passionate Full-Stack Developer and a dedicated problem-solver currently pursuing a B.Tech in Computer Science Engineering[cite: 6]. [cite_start]I thrive on building scalable, user-centric web applications and have a strong foundation in Data Structures and Algorithms[cite: 7].
+I'm a passionate Full-Stack Developer and a dedicated problem-solver currently pursuing a B.Tech in Computer Science Engineering. I thrive on building scalable, user-centric web applications and have a strong foundation in Data Structures and Algorithms.
 
 ![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0bHlsaXU3cmhoc3Bjc2Y2NWI3cDl1cHM1M3F5ZTVqZ3Q2cnNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hYpcyl5/giphy.gif)
 
@@ -18,11 +18,11 @@
 
 ## ⚡ About Me
 
-* [cite_start]🎓 I'm currently a final-year Computer Science student at **Tatyasaheb Kore Institute of Engineering and Technology** [cite: 5][cite_start], affiliated with Shivaji University[cite: 9].
-* [cite_start]💻 I have solved over **300 problems on LeetCode** [cite: 7][cite_start], honing my skills in DSA and logical thinking[cite: 7].
-* [cite_start]🏆 I have secured **1st place in three different college-level coding competitions**[cite: 7].
-* 🚀 I love bringing ideas to life. [cite_start]I have developed multiple projects from scratch, focusing on database management, authentication, and scalable architecture[cite: 11].
-* [cite_start]🤝 As a key member of a team in the **PRABAL Hackathon**, I have proven experience in collaboration, communication, and teamwork under pressure[cite: 7].
+* 🎓 I'm currently a final-year Computer Science student at **Tatyasaheb Kore Institute of Engineering and Technology** [cite: 5][cite_start], affiliated with Shivaji University.
+* 💻 I have solved over **300 problems on LeetCode**, honing my skills in DSA and logical thinking.
+* 🏆 I have secured **1st place in three different college-level coding competitions**.
+* 🚀 I love bringing ideas to life. I have developed multiple projects from scratch, focusing on database management, authentication, and scalable architecture.
+*🤝 As a key member of a team in the **PRABAL Hackathon**, I have proven experience in collaboration, communication, and teamwork under pressure.
 
 ---
 
@@ -108,29 +108,6 @@ Here are the technologies I work with:
     </td>
   </tr>
 </table>
-
----
-
-## ✨ Featured Projects
-
-### [cite_start]🚀 **Alumni Platform** [cite: 7]
-A full-stack web platform to connect college alumni with current students and faculty.
-- [cite_start]**Key Features:** Implemented alumni registration, profile management, event announcements, and job postings[cite: 7].
-- [cite_start]**Tech Stack:** Secure backend built with **PostgreSQL** and **Express.js**, featuring authentication and role-based access control[cite: 7].
-- [cite_start]**Impact:** Improved alumni engagement and query resolution efficiency by **35%** through AI chatbot integration[cite: 7].
-
-### [cite_start]🚕 **Uber Web-App Clone** [cite: 7]
-[cite_start]A full-stack ride-booking platform with separate, dynamic flows for users and captains[cite: 7].
-- [cite_start]**Key Features:** Integrated **Google Maps API** for real-time location search, route suggestions, and distance-time estimation with **95% accuracy**[cite: 7].
-- [cite_start]**Tech Stack:** Built with the **MERN** stack (React, Node.js, Express, MongoDB) and secured with **JWT-based authentication**[cite: 7].
-- [cite_start]**APIs:** Developed **15+ RESTful APIs** to support protected access and role-based features[cite: 7].
-
-### [cite_start]📊 **Sorting Visualizer** [cite: 7]
-An interactive web application that provides a real-time visual representation of various sorting algorithms.
-- [cite_start]**Algorithms Implemented:** Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Heap Sort, and Quick Sort[cite: 7].
-- [cite_start]**Impact:** Enhanced algorithm comprehension by **50%** during academic presentations[cite: 7].
-
----
 
 ## 📈 My GitHub Stats
 
