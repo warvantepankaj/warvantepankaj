@@ -12,8 +12,6 @@
 
 I'm a passionate Full-Stack Developer and a dedicated problem-solver currently pursuing a B.Tech in Computer Science Engineering. I thrive on building scalable, user-centric web applications and have a strong foundation in Data Structures and Algorithms.
 
-![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0bHlsaXU3cmhoc3Bjc2Y2NWI3cDl1cHM1M3F5ZTVqZ3Q2cnNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hYpcyl5/giphy.gif)
-
 ## 🛠️ My Tech Stack
 
 Here are the technologies I work with:
