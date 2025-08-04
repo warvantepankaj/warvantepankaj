@@ -14,16 +14,6 @@ I'm a passionate Full-Stack Developer and a dedicated problem-solver currently p
 
 ![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0bHlsaXU3cmhoc3Bjc2Y2NWI3cDl1cHM1M3F5ZTVqZ3Q2cnNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hYpcyl5/giphy.gif)
 
----
-
-## ⚡ About Me
-
-* 🎓 I'm currently a final-year Computer Science student at **Tatyasaheb Kore Institute of Engineering and Technology** , affiliated with Shivaji University.
-* 🚀 I love bringing ideas to life. I have developed multiple projects from scratch, focusing on database management, authentication, and scalable architecture.
-*🤝 As a key member of a team in the **PRABAL Hackathon**, I have proven experience in collaboration, communication, and teamwork under pressure.
-
----
-
 ## 🛠️ My Tech Stack
 
 Here are the technologies I work with:
